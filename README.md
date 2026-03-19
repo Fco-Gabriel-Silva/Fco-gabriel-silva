@@ -1,26 +1,152 @@
 # Olá! Eu sou o Francisco Gabriel 🤖👾
 
-## 👨‍💻 Sobre Mim
-    Sou aluno da instituição EEEP Paulo Petrola, estou cursando 3° ano de Informática e gosto muito de tecnologia, jogos e aprender coisas novas! :>
+**`Desenvolvedor FullStack`**
 
-## 🤝 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fco-Gabriel-Silva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gabriel-silva-1595a0308/)
+Me chamo Francisco Gabriel da Silva, tenho 19 anos e sou de Fortaleza - CE 🌴☀️
 
-## 💻 Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Concluí o ensino médio na EEEP Paulo Petrola, com o curso técnico em informática 🏫
 
-## 🐙 GitHub Status 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fco-Gabriel-Silva&theme=transparent&bg_color=000&border_color=7B0000&show_icons=true&icon_color=7B0000&title_color=FF0000&text_color=FFF)
+Atualmente, estou cursando Engenharia de Software no Centro Universitário Ateneu (UniAteneu) e atuo profissionalmente como Desenvolvedor Full Stack 💻📚
 
-## 🚀 Linguagens mais usadas
+Apaixonado por tecnologia e por construir soluções. Fora do trabalho e da faculdade, gosto de explorar novas ferramentas de desenvolvimento e aprimorar minha fluência em inglês 🚀💻
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fco-Gabriel-Silva&layout=compact&bg_color=000&border_color=7B0000&title_color=FF0000&text_color=FFF)
+<p align="left">
+    <a href="https://github.com/fco-gabriel-silva?tab=repositories&sort=stargazers">
+        <img s
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/fco-gabriel-silva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/fco-gabriel-silva?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/fco-gabriel-silva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Fco-Gabriel-Silva&repo=dio-lab-open-source&bg_color=000&border_color=7B0000&show_icons=true&icon_color=7B0000&title_color=FF0000&text_color=FFF)](https://github.com/Fco-Gabriel-Silva/dio-lab-open-source)
+---
+
+### 💻 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 GitHub Status
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=fco-gabriel-silva&show_icons=true&theme=prussian&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco-gabriel-silva&theme=prussian&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
